@@ -105,6 +105,11 @@ header h2 {
   float: left;
 }
 
+#main-content h1{
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-size: 15px;
+}
+
 #main-content img {
   max-width: 100%;
 }
@@ -226,7 +231,7 @@ form {
 
 #main-content h1 {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
-  font-size: 2.8em;
+  font-size: 26px;
   letter-spacing: -1px;
   color: #474747;
 } 
